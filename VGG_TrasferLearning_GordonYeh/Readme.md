@@ -1,8 +1,10 @@
 ﻿
-# Matroid Challenge
+# VGG Transfer Learning 
 Author: Gordon Yeh
 Email: gordonforjob@gmail.com
 
+# Trained Model link
+https://drive.google.com/drive/folders/1-92IZuF927iGZ0G6himeQJoH2SgtmrYy?usp=sharing
 
 ## Platform
 Google Colab
